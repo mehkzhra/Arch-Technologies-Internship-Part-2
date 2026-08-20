@@ -1,0 +1,19 @@
+Generative AI Task 4 — Speech-to-Reasoning Result
+
+Audio file: Recording.m4a
+Detected language: en
+
+Whisper transcription:
+What are three practical ways a student can manage study time effectively?
+
+Quantized LLM response:
+Based on the transcription, here's a clear, safe, and practical response:
+
+To manage study time effectively, a student can:
+
+1. Create a schedule and stick to it, allocating specific time slots for studying, breaks, and other activities.
+2. Break down large study tasks into smaller, manageable chunks, and prioritize them based on importance and deadlines.
+3. Use a planner or calendar to track progress, set reminders, and stay organized, ensuring that study time is utilized efficiently.
+
+Model: unsloth/Llama-3.2-1B-Instruct-unsloth-bnb-4bit
+GPU: Tesla T4

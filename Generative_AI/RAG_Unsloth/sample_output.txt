@@ -1,0 +1,13 @@
+QUESTION:
+Which format should the completed Word report be converted into?
+
+RETRIEVED SOURCE:
+submission_guidelines.txt | Similarity: value varies
+
+RAG ANSWER:
+The completed Word report should be converted into PDF format.
+Source: submission_guidelines.txt
+
+MODEL:
+unsloth/Llama-3.2-1B-Instruct-unsloth-bnb-4bit
+GPU: Tesla T4

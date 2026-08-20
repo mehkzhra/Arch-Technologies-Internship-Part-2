@@ -1,0 +1,44 @@
+Welcome to the ATM!
+
+======================================
+          ATM SIMULATION
+======================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option (1-4): 1
+Current balance: Rs. 1,000.00
+
+======================================
+          ATM SIMULATION
+======================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option (1-4): 2
+Enter amount to deposit: Rs. 500
+Deposit successful. New balance: Rs. 1,500.00
+
+======================================
+          ATM SIMULATION
+======================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option (1-4): 3
+Enter amount to withdraw: Rs. 300
+Withdrawal successful.
+Remaining balance: Rs. 1,200.00
+
+======================================
+          ATM SIMULATION
+======================================
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Choose an option (1-4): 4
+Thank you for using the ATM. Goodbye!

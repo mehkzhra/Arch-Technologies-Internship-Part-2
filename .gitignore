@@ -1,0 +1,36 @@
+# Virtual environments
+venv/
+.venv/
+*_venv/
+fer_venv/
+yolo_venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Large datasets
+**/dataset/train/
+**/dataset/test/
+**/data/raw/
+*.zip
+
+# Trained models and weights
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.h5
+
+# Generated outputs
+runs/
+outputs/
+results/
+.ipynb_checkpoints/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/

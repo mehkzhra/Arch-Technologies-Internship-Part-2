@@ -1,0 +1,21 @@
+==========================================
+        NUMBER GUESSING GAME
+==========================================
+I selected a number from 1 to 100.
+Try to guess it!
+
+Enter your guess (1-100): 50
+Too high! Try a lower number.
+
+Enter your guess (1-100): 25
+Too low! Try a higher number.
+
+Enter your guess (1-100): 37
+
+Correct! The number was 37.
+You guessed it in 3 attempt(s).
+
+Would you like to play again? (y/n): n
+Thanks for playing!
+
+Note: The secret number and number of attempts vary because the number is selected randomly.
